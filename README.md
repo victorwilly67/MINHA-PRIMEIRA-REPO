@@ -10,3 +10,6 @@ HTML.
 
 Abra o arquivo index.html em qualquer navegador.
 
+## Autoria
+
+Elaborado por Victor Willy Creatini Stobaus.
